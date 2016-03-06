@@ -1,6 +1,6 @@
 'use strict';
 
-// The google world map measures:
+// The Google world map measures:
 // 1. East to West with 360 degrees and 40,000Km
 // 2. North to South with 180 degrees and 20,000km
 
