@@ -147,7 +147,7 @@ db.savePermitZones = function (zoneArray) {
 };
 
 db.destroyParkingZone = function (zoneId) {
-  console.log('attempting to destroy id', zoneId);
+  // console.log('attempting to destroy id', zoneId);
   // return new Zones({ id:zoneId }).related('worldGrid').destroy().then(function (model) {
   //   console.log('destoyed?', model);
   //   return model;

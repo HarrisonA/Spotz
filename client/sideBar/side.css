@@ -1,6 +1,4 @@
 .sideBar {
-  /*background-color: rgba(0, 0, 0, 0.7);*/
-  /*background-color: blue;*/
   position: absolute;
   top: 20px;
   left: 0;
@@ -21,7 +19,6 @@
 
 .sideBar h2{
   font-size: 18px;
-  /* text-align: center; */
   color: whitesmoke;
   margin: 1px;
   padding-left: 12px;
