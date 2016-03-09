@@ -243,7 +243,7 @@ angular.module('MapServices')
 
           parkingMessage = '';
 
-          // No rules on Sunday (0) or Sat (if Sat is not in the daysArray length)
+          // No parking rules on Sunday (0) or Sat (if Sat is not in the daysArray length)
           if (userDay === 0  || (userDay === 6 && daysArray.length < 6)) {
             parkingMessage = 'NO PERMIT REQUIRED TO PARK HERE for the date entered.';
 
